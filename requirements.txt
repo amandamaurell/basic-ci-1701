@@ -5,3 +5,6 @@ seaborn
 
 # Testing packages
 pytest
+
+#formatting
+black
